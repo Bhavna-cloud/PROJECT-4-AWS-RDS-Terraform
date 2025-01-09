@@ -1,6 +1,8 @@
 # AWS-RDS-Terraform
 AWS RDS Instance with read-replica using Terraform
 
+https://youtu.be/Q58h92qmLAQ?si=jYyx7crHdgUmE2BR
+
 ### Architecture:
 
 <img width="732" alt="Screenshot 2024-04-22 at 10 21 43 PM" src="https://github.com/yeshwanthlm/AWS-RDS-Terraform/assets/66474973/0790a16a-79b8-4b77-9131-969cd8d9af88">
